@@ -18,12 +18,7 @@
   -  Responsive Design: 
        - Ensures the e-commerce site works seamlessly across various screen sizes, from mobile devices to desktops.
 
-  - Responsive Design:
-       -  Ensures the portfolio works seamlessly across different screen sizes, from mobile devices to desktops.
-
-  -   Testimonials or Recommendations: 
-       - Features a few brief quotes from clients, mentors, or colleagues to add credibility.
-
+  
 ### Screenshot (desktop and mobile view)
 
   -    ![Desktop Screenshot](./screenshot/desktop.jpg)
